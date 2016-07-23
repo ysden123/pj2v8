@@ -1,0 +1,16 @@
+{
+  "name": "pj2v8n",
+  "version": "1.0.0",
+  "description": "Communiction with java",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "communication",
+    "java",
+    "nodejs"
+  ],
+  "author": "Yuriy Stul",
+  "license": "ISC"
+}
